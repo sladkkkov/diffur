@@ -12,4 +12,4 @@ http://localhost:8080 in your browser.
 
 ##### Пример работы приложения
 
-![Пример работы приложение](https://github.com/[sladkkkov]/[diffur]/blob/[main]/example.jpg?raw=true)
+![Пример работы приложение](https://github.com/sladkkkov/diffur/blob/37bd6fdea8161b9fd175de66f3a790f883e8105f/readme/example.jpg)
